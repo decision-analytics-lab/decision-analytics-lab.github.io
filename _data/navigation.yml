@@ -2,10 +2,32 @@ main:
   - title: "Home"
     url: /
   - title: "Projects"
-    url: /categories/
+    url: /projects/
   - title: "Achievements"
-    url: /tags/
+    url: /achievements/
   - title: "About"
     url: /about/
   - title: "News"
     url: /tags/
+
+projects:
+  - title: "Projects"
+    children:
+      - title: "Robust Dual Sourcing with Two Spot Market Supplies"
+        url: /projects/robust-dual-sourcing/
+      - title: "Review of Patient Transport Service for Hospital Authority"
+        url: /projects/review-of-patient-transport/
+  - title: "Consulting"
+    children:
+      - title: "Golden Resources Delivery Platform"
+        url: /projects/grds/
+      - title: "Alibaba Consulting Project"
+        url: /projects/ali/
+
+achievements:
+    - title: "Achievements"
+      children:
+        - title: "Publications"
+          url: "/achievements/publications/"
+        - title: "Awards"
+          url: "/achievements/awards/"
