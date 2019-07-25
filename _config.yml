@@ -77,15 +77,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -105,7 +99,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _projects
   - scope:
       path: ""
@@ -126,6 +120,16 @@ defaults:
       excerpt: ""
       sidebar:
         nav: "achievements"
+  # _about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: false
+      excerpt: ""
+      sidebar:
+        nav: "about"
 
 category_archive:
   type: liquid
@@ -140,6 +144,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   achievements:
+    output: true
+    permalink: /:collection/:path/
+  about:
     output: true
     permalink: /:collection/:path/
     

@@ -8,7 +8,7 @@ main:
   - title: "About"
     url: /about/
   - title: "News"
-    url: /tags/
+    url: /news/
 
 projects:
   - title: "Projects"
@@ -31,3 +31,11 @@ achievements:
           url: "/achievements/publications/"
         - title: "Awards"
           url: "/achievements/awards/"
+
+about:
+    - title: "About"
+      children:
+        - title: "Yanzhi Li"
+          url: "/about/yanzhili/"
+        - title: "Biying Shou"
+          url: "/about/biyingshou/"
