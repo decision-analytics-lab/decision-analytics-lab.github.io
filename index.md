@@ -46,3 +46,10 @@ Yanzhi Li (David) is a Professor of Management Sciences and Marketing at College
 Biying Shou is an Associate Professor of Management Sciences at College of Business, City University of Hong Kong. She received her bacheolor degree in Management Information Systems from Tsinghua University (China) and M.S. and Ph.D. in Industrial Engineering and Management Sciences from Northwestern University (U.S.A). Her main expertise is in operations & supply chain management and network economics. She has published in top journals such as Operations Research, Production and Operations Management, and IEEE Transactions on Mobile Computing. She worked at 4R Systems (U.S.A.) prior to joining CityU, doing demand forecasting, price elasticity analysis and inventory optimization for major retail chains including Crate & Barrel, LNthings, and Pep Boys. Currently, she teaches the core operations management course for EMBA students and supervises both Ph.D. and DBA students at CityU. 
 
 <div style="margin-top:5px" align="center">For more, see <a href="{{ "/about/biyingshou/" | absolute_url }}">Biying Shou</a></div>
+
+<div style="clear:both; margin-top: 1cm"/>
+
+![image-left](/assets/images/yuyang.png){: .align-left}
+Yu Yang is an Assistant Professor with the School of Data Science at City University of Hong Kong. He obtained his Ph.D. in Computing Science from Simon Fraser University in 2019, where he was supervised by Prof. Jian Pei. Before that, he obtained his M.E. from University of Science and Technology of China, and his B.E. from Hefei University of Technology, both in Computer Science. His research interests lie in the algorithmic aspects of data mining and data science, with an emphasis on controlling and mining dynamics of large scale graphs/networks. He is also interested in applying his work in various applications ranging from social marketing and recommender systems to anomaly detection. He has published nearly 20 papers in premier conferences and journals such as SIGMOD, VLDB, ICDE, IJCAI, ECML-PKDD, TKDE, TKDD and KAIS.
+
+<div style="margin-top:5px" align="center">For more, see <a href="{{ "/about/yuyang/" | absolute_url }}">Yu Yang</a></div>
