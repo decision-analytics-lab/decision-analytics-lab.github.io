@@ -106,6 +106,7 @@ defaults:
       type: projects
     values:
       layout: single
+      classes: wide
       author_profile: false
       excerpt: ""
       sidebar:

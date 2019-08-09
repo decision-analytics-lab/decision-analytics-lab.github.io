@@ -13,6 +13,9 @@ html {
   box-sizing: border-box;
   background-color: $background-color;
   font-size: 15px;
+  .sidebar p, .sidebar li {
+    margin-bottom: 5px;
+  }
 
   /* changed these three to change overall font size */
   @include breakpoint($medium) {
@@ -26,6 +29,10 @@ html {
 
   @include breakpoint($x-large) {
     font-size: 17px;
+  }
+
+  .description {
+    font-size: 15px;
   }
 
   -webkit-text-size-adjust: 100%;
@@ -45,3 +52,10 @@ html {
 .pagination {
   display: none;
 }
+
+.authors {
+  font-size: 13px;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
