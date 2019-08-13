@@ -11,8 +11,7 @@ header:
 excerpt: "Dedicated to the research, education and application of decision analytics"
 
 intro: 
-  - excerpt: "Decision Analytics Lab dedicated to the research, education and application of decision analytics. We integrate the knowledge and techniques from optimization, statistics, and machine learning and develop models, methodologies and algorithms to support data-based decision makings."
-
+  - excerpt: "Decision Analytics Lab is dedicated to the research, education and application of decision analytics. We integrate the knowledge and techniques from optimization, statistics, and machine learning and develop models, methodologies and algorithms to support data-based decision-making."
 
 feature_row:
   - image_path: /assets/images/publications.jpg
