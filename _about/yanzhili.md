@@ -1,7 +1,7 @@
 ---
 title: "About"
 header:
-  overlay_image: /assets/images/betty_bear.jpg
+  overlay_image: /assets/images/home.jpg
 date: 2018-01-07
 ---
 
