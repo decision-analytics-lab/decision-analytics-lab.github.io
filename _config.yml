@@ -111,22 +111,13 @@ defaults:
       excerpt: ""
       sidebar:
         nav: "projects"
-  # _achievements
-  - scope:
-      path: ""
-      type: achievements
-    values:
-      layout: single
-      author_profile: false
-      excerpt: ""
-      sidebar:
-        nav: "achievements"
   # _about
   - scope:
       path: ""
       type: about
     values:
       layout: single
+      classes: wide
       author_profile: false
       excerpt: ""
       sidebar:
@@ -142,9 +133,6 @@ tag_archive:
 # collections
 collections:
   projects:
-    output: true
-    permalink: /:collection/:path/
-  achievements:
     output: true
     permalink: /:collection/:path/
   about:

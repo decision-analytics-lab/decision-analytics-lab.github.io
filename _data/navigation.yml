@@ -1,14 +1,14 @@
 main:
   - title: "Home"
     url: /
+  - title: "Publications"
+    url: /publications/
   - title: "Projects"
     url: /projects/
   - title: "Achievements"
     url: /achievements/
   - title: "About"
     url: /about/
-  - title: "News"
-    url: /news/
 
 projects:
   - title: "Projects"
