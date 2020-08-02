@@ -5,14 +5,16 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Achievements"
-    url: /achievements/
+  - title: "People"
+    url: /people/
   - title: "About"
     url: /about/
 
 projects:
   - title: "Projects"
     children:
+      - title: "Online Assortment Planning with Ranking-based Choice Models"
+        url: /projects/online-assortment-planning-with-ranking-based-choice-models/
       - title: "Robust Dual Sourcing with Two Spot Market Supplies"
         url: /projects/robust-dual-sourcing-with-two-spot-market-supplies/
       - title: "Review of Patient Transport Service for Hospital Authority"

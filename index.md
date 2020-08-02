@@ -14,20 +14,20 @@ intro:
   - excerpt: "Decision Analytics Lab is dedicated to the research, education and application of decision analytics. We integrate the knowledge and techniques from optimization, statistics, and machine learning and develop models, methodologies and algorithms to support data-based decision-making."
 
 feature_row:
-  - image_path: /assets/images/publications.jpg
-    alt: "Publications"
-    title: "Publications"
-    url: "/publications/"
+  - image_path: /assets/images/marketing.jpg
+    alt: "Marketing"
+    title: "Marketing"
+    url: "/marketing/"
+    btn_class: "hide_more_label"
+  - image_path: /assets/images/logistics.jpg
+    alt: "Operations/Logistics"
+    title: "Operations/Logistics"
+    url: "/operations/"
     btn_class: "hide_more_label"
   - image_path: assets/images/projects.jpg
     alt: "Projects"
     title: "Projects"
     url: "/projects/"
-    btn_class: "hide_more_label"
-  - image_path: /assets/images/achievements.jpg
-    alt: "Achievements"
-    title: "Achievements"
-    url: "/achievements/"
     btn_class: "hide_more_label"
 ---
 
