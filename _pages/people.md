@@ -28,7 +28,7 @@ gallery:
     alt: "Wu Tongwen"
     title: "Wu Tongwen"
   - url: /assets/images/students/Zheng zhenhan.jpg
-    image_path: /assets/images/students/Zheng zhenhan.jpg
+    image_path: /assets/images/students/Zheng Zhenhan.jpg
     alt: "Zheng zhenhan"
     title: "Zheng zhenhan"
 ---
