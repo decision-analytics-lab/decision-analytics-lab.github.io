@@ -8,29 +8,17 @@ date: 2018-01-07
 
 gallery:
   - url: /assets/images/students/Dong Junyi.jpg
-    image_path: /assets/images/students/Dong Junyi.jpg
-    alt: "Dong Junyi"
     title: "Dong Junyi"
   - url: /assets/images/students/Fu Qiaochu.jpg
-    image_path: /assets/images/students/Fu Qiaochu.jpg
-    alt: "Fu Qiaochu"
     title: "Fu Qiaochu"
   - url: /assets/images/students/He Xing.jpg
-    image_path: /assets/images/students/He Xing.jpg
-    alt: "He Xing"
     title: "He Xing"
   - url: /assets/images/students/Lu Jialiang.jpg
-    image_path: /assets/images/students/Lu Jialiang.jpg
-    alt: "Lu Jialiang"
     title: "Lu Jialiang"
   - url: /assets/images/students/Wu Tongwen.jpg
-    image_path: /assets/images/students/Wu Tongwen.jpg
-    alt: "Wu Tongwen"
     title: "Wu Tongwen"
-  - url: /assets/images/students/Zheng zhenhan.jpg
-    image_path: /assets/images/students/Zheng Zhenhan.jpg
-    alt: "Zheng zhenhan"
-    title: "Zheng zhenhan"
+  - url: /assets/images/students/Zheng Zhenhan.jpg
+    title: "Zheng Zhenhan"
 ---
 
 {% for g in page.gallery %}
